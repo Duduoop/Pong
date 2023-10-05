@@ -1,0 +1,9 @@
+body {
+    text-align: center
+}
+
+#board {
+    background-color: black;
+    border-top: 5px solid skyblue; /*Used to color the first 5 pixels skyblue(i like that color) */
+    border-bottom: 5px solid skyblue;
+}
